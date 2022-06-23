@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kavacorp/static/css/main.334bdeb1.css",
-    "main.js": "/kavacorp/static/js/main.f8b88a80.js",
+    "main.js": "/kavacorp/static/js/main.8304e6cf.js",
     "index.html": "/kavacorp/index.html",
     "static/media/search.svg": "/kavacorp/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
     "main.334bdeb1.css.map": "/kavacorp/static/css/main.334bdeb1.css.map",
-    "main.f8b88a80.js.map": "/kavacorp/static/js/main.f8b88a80.js.map"
+    "main.8304e6cf.js.map": "/kavacorp/static/js/main.8304e6cf.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.f8b88a80.js"
+    "static/js/main.8304e6cf.js"
   ]
 }
